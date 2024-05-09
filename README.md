@@ -10,7 +10,7 @@ in [Sublime Text](https://www.sublimetext.com/).
 The recommended way is to use [Package Control](https://packagecontrol.io/installation) to automatically receive the latest updates and make the entire process much simpler.
 
 ### Package Control Installation
-(this should work once [pull request is accepted to Package Control]())
+(this should work once [pull request is accepted to Package Control](https://github.com/wbond/package_control_channel/pull/8916))
 
 1. Open Sublime Text and press `Shift+Ctrl+P` (`Cmd+Shift+P` on Mac).
 2. Type `install` and press enter.
